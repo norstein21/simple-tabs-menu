@@ -1,3 +1,8 @@
+#Hello guys!
+So i created this simple tabs to show different information and also add loading page while waiting when fetching data.
+I got the loading page from this reference : https://codepen.io/poziomq/pen/ozaYKK
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
